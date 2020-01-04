@@ -17,10 +17,12 @@ You will need your distro's equivalent to:
 
 To make sure the left top panel works you will need the following dependencies:
 
--jq
--xdotool
--perl-anyevent-i3
--wmctrl
+- jq
+- xdotool
+- perl-anyevent-i3
+- wmctrl
+
+
 
 
 It is recommended to install KDE Plasma along side this as Q::Shell utilizes many of Plasma's features.
