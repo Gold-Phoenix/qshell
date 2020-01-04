@@ -21,7 +21,7 @@ To make sure the left top panel works you will need the following dependencies:
 - xdotool
 - perl-anyevent-i3
 - wmctrl
-
+- compton-tryone
 
 
 
@@ -67,6 +67,15 @@ sudo make install
 A Q::Shell session will appear on your display manager's session selection.
 
 **NOTE**: it is currently required that KDE Plasma be installed as the session requires several Plasma-specific utilities.
+
+
+
+## Extra End Editing
+
+After qshell has been installed the first thing you will want to do is edit the qshellrc in your .config directory. In this file change user in /home/user/ to your current user name in order for it to work.
+
+Also remember to chmod +x the infopanel.sh file in the .config/qshell directory.
+
 
 ## Credits
 
