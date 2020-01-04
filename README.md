@@ -38,7 +38,7 @@ You'll also need `dex` installed if you want to open applications in the dash.
 For Arch, use this:
 
 ```
-sudo pacman -S extra-cmake-modules plasma-meta
+sudo pacman -S extra-cmake-modules plasma-meta qt5 kf5 solid libx11 jq xdotool perl-anytime-i3 wmctrl
 ```
 
 ## Build
