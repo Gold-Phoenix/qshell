@@ -27,7 +27,7 @@ Click=i3-msg workspace 1
 
 [des3]
 Type=Button
-Icon=/usr/share/icons/breeze-dark/apps/22/applications-internet.svg
+Icon=/usr/share/icons/breeze-dark/actions/16/internet-services.svg
 Size=16
 Click=i3-msg workspace 2
 
