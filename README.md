@@ -14,6 +14,8 @@ You will need your distro's equivalent to:
 - KF5Solid
 - Xlib
 - Pulseaudio
+- compton-tryone
+
 
 To make sure the left top panel works you will need the following dependencies:
 
@@ -21,7 +23,6 @@ To make sure the left top panel works you will need the following dependencies:
 - xdotool
 - perl-anyevent-i3
 - wmctrl
-- compton-tryone
 
 
 
