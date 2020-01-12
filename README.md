@@ -70,7 +70,7 @@ Next copy and paste the 2 script files from scripts and paste them anywhere, fro
 After all this is done, qshell should be ready to launch, keep in mind this will take over your kdeplasma DE and replace it with Qshell.
 
 
-##Sidenotes
+## Sidenotes
 
 To get the most out of this DE, make sure you install kvantum and use the Akava-Kv theme, also make sure to install compton-tryone and the compton.conf for full blur and transparency effect. 
 
