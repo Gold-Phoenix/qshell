@@ -2,6 +2,7 @@
 
 ![Screenshot](/screenshots/4.png)
 ![Screenshot](/screenshots/5.png)
+![Screenshot](/screenshots/6.png)
 
 
 a simple desktop shell based on KF5 and QT5, inspired by plasmashell and BE::Shell.
