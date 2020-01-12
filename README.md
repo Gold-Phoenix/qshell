@@ -83,6 +83,12 @@ For more info on the ideal setup for Qshell check out this page for reference on
 https://www.reddit.com/r/unixporn/comments/aotk1r/i3gapsqshell_tile_in_style/
 
 
+## Known Bugs
+
+As of the latest versions of KDE Plasma, kstartupconfig5 no longer exsits which means that the offical version of Qshell and its session on the display manager no longer work.
+
+Opening or using the volume in the top bar, then switching to something will completely freeze Qshell and require a restart of the display manager in order to restart Qshell. So try to avoid using the volume bar or just straight up remove it if that bothers you.
+
 ## Credits
 
  * Qt and KF5
