@@ -44,7 +44,7 @@ sudo apt install extra-cmake-modules qtbase5-dev libx11-dev libkf5crash-dev libk
 For Arch, use this:
 
 ```
-sudo pacman -S extra-cmake-modules plasma-meta qt5 kf5 solid libx11 jq xdotool perl-anytime-i3 wmctrl kvantum-qt5
+sudo pacman -S extra-cmake-modules plasma-meta qt5 kf5 solid libx11 jq xdotool perl-anyevent-i3 wmctrl kvantum-qt5
 ```
 
 ## Build and install
